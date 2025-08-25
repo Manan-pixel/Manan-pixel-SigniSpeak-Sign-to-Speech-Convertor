@@ -1,0 +1,8 @@
+opencv-python
+numpy
+keras
+mediapipe
+tensorflow
+pyttsx3
+cvzone
+pyenchant 
